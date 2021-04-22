@@ -29,7 +29,9 @@ And when you follow the link for a boy and a girl at the top, you will easily be
 
 
 ![alt](https://github.com/gaukhar02/project10points
-/raw/main/project.png)
+/main/project.png)
+
+![alt text](https://github.com/gaukhar02/project10points/blob/main/project.png)
 
 
 
