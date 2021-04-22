@@ -28,7 +28,8 @@ And when you follow the link for a boy and a girl at the top, you will easily be
 # ER diagram of the my project
 
 
-![alt](https://github.com/gaukhar02/project10points/raw/main/C:/Users/Lenova/Downloads/project.png)
+![alt](https://github.com/gaukhar02/project10points
+/raw/main/project.png)
 
 
 
